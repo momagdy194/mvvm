@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://i.imgur.com/oYZbJFb.jpg",
+      "name": "MacBook Pro 16-inch model",
+      "price": 2399
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.imgur.com/b11y1Fx.jpg",
+      "name": "AirPods Pro",
+      "price": 249
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.imgur.com/ls9RE3E.jpg",
+      "name": "COZMO Original",
+      "price": 190
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://imgur.com/ZNcgbvM.jpg",
+      "name": "Furbo Dog Camera",
+      "price": 199
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://imgur.com/Rol3RzL.jpg",
+      "name": "Dyson V11 Torque Drive Cordless Vacuum",
+      "price": 674
+    }
+  ]
+}
